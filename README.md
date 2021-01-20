@@ -9,7 +9,7 @@
 > Ce site est sous licence et également en open-source.
 
 ## Informations
- [https://tutos-du-web.com](https://tutos-du-web.com/
+ [https://tutos-du-web.com](https://tutos-du-web.com/)
 
 ## Installation
 * 1- Commencer par télécharger le repo et d'extraire le dossier `tutos-du-web -main`sur votre bureau.
