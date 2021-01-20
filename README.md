@@ -9,8 +9,7 @@
 > Ce site est sous licence et également en open-source.
 
 ## Informations
-Ce site est un site open source qui n'a jamais été publié
-
+httos://tutos-du-web.com
 ## Installation
 * 1- Commencer par télécharger le repo et d'extraire le dossier `tutos-du-web -main`sur votre bureau.
 * 3- Ouvrez la racine de votre dossier avec CMD
