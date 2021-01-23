@@ -25,7 +25,7 @@ vous pouvez écrire des tutos !
 * 5- Allez dans le fichier `config.php` et le remplir.
 * 6- Après , rendez vous dans phpmyadmin et importez les fichier bd.sql
 
-* PS: Si vous avez des erreurs d'installation, télécharger [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/) et cocher cette case pendant l'installation [Screen](https://i.imgur.com/KTqnSxo.png) et refaire `npm start` et le tour est jouer
+* PS: Si vous avez des erreurs d'installation, télécharger [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/) et cocher cette case pendant l'installation [Screen](https://i.imgur.com/KTqnSxo.png) et refaire `npm start` et le tour est joué !
 
 
 
