@@ -9,7 +9,15 @@
 > Ce site est sous licence et également en open-source.
 
 ## Informations
- [https://tutos-du-web.com](https://tutos-du-web.com/)
+
+tutos du web est un site de tutos informatiques .
+vous pouvez et lire de nombreux tutos et même écrire vos propres tutos.
+Chacun peut modifier les tutos , comme ça il y a le meilleur contenu possible !
+Vous pouvez vous créer un compte , poster des commentaires.....
+de plus , le site est open source !
+vous pouvez écrire des tutos !
+ [Site](https://tutos-du-web.com/)
+  [Discord](https://discord.gg/axtNafkDrE)
 
 ## Installation
 * 1- Commencer par télécharger le repo et d'extraire le dossier `tutos-du-web -main`sur votre bureau.
