@@ -2,8 +2,8 @@
 
 # Tutos du web
 
-[![](https://img.shields.io/discord/766318515619102730.svg?logo=discord&colorB=7289DA)](https://discord.gg/X6jZrUf)
-[![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://discord.js.org/)
+[![](https://img.shields.io/discord/766318515619102730.svg?logo=discord&colorB=7289DA)](https://discord.gg/axtNafkDrE)
+[![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://tutos-du-web.com/)
 
 
 > Ce site est sous licence et également en open-source.
